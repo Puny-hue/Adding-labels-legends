@@ -1,0 +1,5 @@
+plt.xlabel(" ")   - Horizontal
+plt.ylabel(" ") - Verticle
+plt.title(" ")
+plt.show()
+
